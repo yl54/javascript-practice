@@ -1,0 +1,9 @@
+stuff to build:
+- hello world
+- make a function object
+- have a function object get called from a different file
+  - try the private and exported functions
+- make a hello world web app/server
+- make a file to read/write files
+- do some arithmetic/subtract
+- try debugging a file
